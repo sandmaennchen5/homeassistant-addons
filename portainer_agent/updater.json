@@ -5,5 +5,5 @@
   "slug": "portainer_agent",
   "source": "dockerhub",
   "upstream_repo": "portainer/agent",
-  "upstream_version": "2.39.2"
+  "upstream_version": "2.39.3"
 }
