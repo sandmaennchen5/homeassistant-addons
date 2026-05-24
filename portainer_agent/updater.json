@@ -1,0 +1,9 @@
+{
+  "github_tagfilter": "alpine",
+  "last_update": "20-05-2026",
+  "repository": "sandmaennchen5/hassio-addons",
+  "slug": "portainer_agent",
+  "source": "dockerhub",
+  "upstream_repo": "portainer/agent",
+  "upstream_version": "2.39.2"
+}
