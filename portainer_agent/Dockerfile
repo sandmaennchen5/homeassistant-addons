@@ -18,7 +18,7 @@
 ARG BUILD_FROM
 
 # Get agent
-FROM portainer/agent:2.39.2-alpine as original_agent
+FROM portainer/agent:2.42.2-alpine as original_agent
 ENV PORTAINER_AGENT_ARGS=""
 
 # Build using base
